@@ -1,7 +1,6 @@
 {
   "name": "trial",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thotamohanreddy/trial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thotamohanreddy/trial/issues"
+  },
+  "homepage": "https://github.com/thotamohanreddy/trial#readme",
+  "description": ""
 }
